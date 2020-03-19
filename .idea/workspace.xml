@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab829880-3655-41fe-8d6f-4765243907df" name="Default Changelist" comment="" />
+    <list default="true" id="ab829880-3655-41fe-8d6f-4765243907df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/annotations_api__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.mjlf.test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.mjlf.test/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +27,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -49,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
@@ -175,6 +185,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="537" y="185" key="#Tomcat_Server" timestamp="1584158857457">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -188,6 +209,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584407068925" />
+    <state x="494" y="112" key="CommitChangelistDialog2" timestamp="1584585071718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584585071718" />
     <state width="1203" height="279" key="GridCell.Tab.0.bottom" timestamp="1584407300238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -244,5 +269,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="425" y="101" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584267468738" />
+    <state x="496" y="258" key="Vcs.Push.Dialog.v2" timestamp="1584585134601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="496" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584585134601" />
   </component>
 </project>

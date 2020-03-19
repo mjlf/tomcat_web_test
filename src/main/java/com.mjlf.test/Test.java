@@ -23,5 +23,6 @@ public class Test extends HttpServlet {
         System.out.println("接收到/webtest请求");
         resp.getWriter().write("哈哈哈");
         //测试checkout
+        //我们都是好孩子，咿呀咿呀哟
     }
 }
