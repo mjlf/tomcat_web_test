@@ -7,11 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab829880-3655-41fe-8d6f-4765243907df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/annotations_api__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.mjlf.test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.mjlf.test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.text" beforeDir="false" afterPath="$PROJECT_DIR$/test.text" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +187,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -205,6 +204,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="399" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584158869757" />
+    <state x="632" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584586029841">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="632" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584586029841" />
     <state x="806" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1584407068925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -273,5 +276,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="496" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584585134601" />
+    <state x="590" y="315" key="git4idea.merge.GitPullDialog" timestamp="1584586021175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="315" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584586021175" />
   </component>
 </project>
