@@ -22,5 +22,6 @@ public class Test extends HttpServlet {
     protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         System.out.println("接收到/webtest请求");
         resp.getWriter().write("哈哈哈");
+        //测试checkout
     }
 }
